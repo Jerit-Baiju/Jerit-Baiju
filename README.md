@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerit-baiju&theme=gotham" alt="jerit-baiju" /></p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jerit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jerit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jerit-Baiju&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
 
 
 <!--
