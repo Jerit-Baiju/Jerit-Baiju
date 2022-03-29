@@ -3,9 +3,9 @@
 </div>
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
-![DP](https://jerit.herokuapp.com/favicon.ico)
+<center>
 [My WebSite](https://jerit.herokuapp.com)
-
+</center>
 
 <h3 align="center">A passionate Python Web Developer</h3>
 <h4 align="center">Pronouns: He/Him</h4>
