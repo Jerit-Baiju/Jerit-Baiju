@@ -4,7 +4,7 @@
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
 
-[My WebSite](https://jerit.herokuapp.com)
+**jerit.herokuapp.com**
 
 
 <h3 align="center">A passionate Python Web Developer</h3>
