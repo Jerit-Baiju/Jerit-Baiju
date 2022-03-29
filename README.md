@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://jerit.herokuapp.com" target="blank">
-    <img align="center" width="26px" src="https://jerit.herokuapp.com/static/images/dp.png" alt="Mail">
+    <img align="center" width="26px" src="https://jerit.herokuapp.com/static/images/dp.png" alt="Mail"> MY WEBSITE
   </a>
 </p>
 
