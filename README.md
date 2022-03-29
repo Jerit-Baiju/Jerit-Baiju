@@ -3,11 +3,9 @@
 </div>
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
-<p align="center">
-  <a href="https://jerit.herokuapp.com" target="blank">
-    <img align="center" width="26px" src="https://jerit.herokuapp.com/static/images/dp.png" alt="Mail"> MY WEBSITE
-  </a>
-</p>
+![DP](https://jerit.herokuapp.com/favicon.ico)
+[My WebSite](https://jerit.herokuapp.com)
+
 
 <h3 align="center">A passionate Python Web Developer</h3>
 <h4 align="center">Pronouns: He/Him</h4>
