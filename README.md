@@ -21,11 +21,11 @@
   </p>
 
 <div align="center">
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Jerit-Baiju" /></p>
+<p><img width="100%" height = "250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Jerit-Baiju" /></p>
 
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=gotham" alt="Jerit-Baiju" /></p>
+<p><img width="100%" height = "250px" align="center" src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=gotham" alt="Jerit-Baiju" /></p>
 
-<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerit-baiju&theme=gotham" alt="jerit-baiju" /></p>
+<p><img width="100%" height = "250px" src="https://github-readme-streak-stats.herokuapp.com/?user=jerit-baiju&theme=gotham" alt="jerit-baiju" /></p>
 </div>
 
 
