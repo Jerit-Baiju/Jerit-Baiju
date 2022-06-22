@@ -21,7 +21,7 @@
   </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Jerit Baiju" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Jerit Baiju" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Jerit Baiju" />
 
