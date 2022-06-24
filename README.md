@@ -1,5 +1,5 @@
 <div align="center">
-<img height = "250px" src="banner.jpeg" alt="cover" />
+<img width="100%" src="banner.jpeg" alt="cover" />
 </div>
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
