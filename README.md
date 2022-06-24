@@ -1,5 +1,8 @@
 <div align="center">
-<img width="100%" src="banner.jpeg" alt="cover" />
+  <a href="http://jerit.herokuapp.com">
+    <img width="100%" src="banner.jpeg" alt="Jerit Baiju" />
+  </a>
+
 </div>
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
@@ -7,9 +10,9 @@
 <h3 align="center">A Passionate Python Web Developer</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit-Baiju" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" /></a> </p>
 
-- 🌱 I’m currently learning **React + Django**
+- 🌱 I'm currently learning **React + Django**
 
 - 💬 Ask me about **Python, Flask, Django, Pyflit, Heroku**
 
