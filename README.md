@@ -24,7 +24,7 @@
   </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_darkhide_border=true" alt="Jerit Baiju" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Jerit Baiju" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Jerit Baiju" />
 
