@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Jerit Baiju" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jerit-baiju&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jerit Baiju" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jerit-baiju&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jerit Baiju" />
 
 </div>
 
