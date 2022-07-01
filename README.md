@@ -4,7 +4,7 @@
   </a>
 
 </div>
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
+<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%1f6feb6&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
 
 <h3 align="center">A Passionate Python Web Developer</h3>
