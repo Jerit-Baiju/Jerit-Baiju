@@ -24,11 +24,11 @@
   </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=gotham&" alt="Jerit Baiju" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Jerit Baiju" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=gotham&" alt="Jerit Baiju" />
+<img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Jerit Baiju" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jerit-baiju&theme=gotham&&date_format=M%20j%5B%2C%20Y%5D" alt="Jerit Baiju" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jerit-baiju&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jerit Baiju" />
 
 </div>
 
