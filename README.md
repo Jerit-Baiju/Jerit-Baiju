@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&duration=3000&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
 
 </div>
 <h4 align="center">Pronouns: He/Him</h4>
