@@ -4,8 +4,8 @@
   </a>
 
 </div>
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%1f6feb6&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&duration=3000&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
 
 <h2 align="center">A Passionate Django Developer</h3>
 <h4 align="center">Pronouns: He/Him</h4>
