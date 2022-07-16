@@ -7,7 +7,7 @@
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%1f6feb6&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Jerit+Baiju.></p>
 
 
-<h2 align="center">A Passionate Python Web Developer</h3>
+<h2 align="center">Django Developer</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" /></a> </p>
