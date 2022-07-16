@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **jeritalumkal@gmail.com**
 
-### Languages and Tools:
+## Languages and Tools:
 
-	<div align="center">
+<div align="center">
 	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
