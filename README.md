@@ -19,7 +19,8 @@
 - 📫 How to reach me **jeritalumkal@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-
+	<div align="center">
+	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,6 +32,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+	
+	</div>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Jerit Baiju" />
