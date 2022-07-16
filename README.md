@@ -4,9 +4,11 @@
   </a>
 
 </div>
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&duration=3000&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
-<h2 align="center">A Passionate Django Developer</h3>
+
+</div>
 <h4 align="center">Pronouns: He/Him</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" /></a> </p>
