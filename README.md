@@ -7,6 +7,7 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&width=446&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
+![](https://komarev.com/ghpvc/?username=jerit-baiju)
 
 </div>
 <h4 align="center">Pronouns: He/Him</h4>
