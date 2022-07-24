@@ -13,7 +13,7 @@
 </div>
 <h2 align="center">Pronouns: He/Him</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" /></a> </p>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" />
 
 - 🌱 I'm currently learning **Django**
 
