@@ -21,8 +21,7 @@
 
 - 📫 How to reach me **jeritalumkal@gmail.com**
 
-## Interested in:
-
+<h2 align="center">Interested in</h2>
 <div align="center">
 	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +39,7 @@
 	
 </div>
 
-## GitHub Stats:
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Jerit Baiju" />
 
