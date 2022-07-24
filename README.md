@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jeritalumkal@gmail.com**
 
-## Focused on:
+## Interested in:
 
 <div align="center">
 	
