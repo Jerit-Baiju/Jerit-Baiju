@@ -15,13 +15,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" /></a> </p>
 
-- 🌱 I'm currently learning **React + Django**
+- 🌱 I'm currently learning **Django**
 
-- 💬 Ask me about **Python, Flask, Django, Pyflit, Heroku**
+- 💬 Ask me about **Python, Django, Flask, Pyflit, Heroku**
 
 - 📫 How to reach me **jeritalumkal@gmail.com**
 
-## Languages and Tools:
+## Focused on:
 
 <div align="center">
 	
