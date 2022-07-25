@@ -12,8 +12,9 @@
 
 </div>
 <h2 align="center">Pronouns: He/Him</h2>
-
+<div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" />
+</div>
 
 - 🌱 I'm currently learning **Django**
 
