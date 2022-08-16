@@ -49,6 +49,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jerit-baiju&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jerit Baiju" />
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10&exclude_repo=Greeny-Template&hide=procfile" alt="Jerit Baiju" />
+
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=82994003)
