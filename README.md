@@ -43,7 +43,7 @@
 
 ## GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=True&count_private=True&langs_count=10&exclude_repo=Greeny-Template,Green-Heart" alt="Jerit Baiju" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerit-baiju&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=True&count_private=True&langs_count=10&exclude_repo=Greeny-Template,Green-Heart,CA-Django" alt="Jerit Baiju" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerit-baiju&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true&include_all_commit=true" alt="Jerit Baiju" />
 
