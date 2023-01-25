@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://jerit.herokuapp.com">
+  <a href="https://jerit.ml">
     <img width="100%" src="banner.jpeg" alt="Jerit Baiju" />
   </a>
 
