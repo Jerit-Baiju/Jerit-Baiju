@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://jerit.ml">
+  <a href="https://jerit.in">
     <img width="100%" src="banner.jpeg" alt="Jerit Baiju" />
   </a>
 
