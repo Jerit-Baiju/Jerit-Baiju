@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&width=446&lines=Hello+👋🏻+this+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&width=446&lines=This+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
 
 ![](https://komarev.com/ghpvc/?username=jerit-baiju)
 
@@ -39,3 +39,4 @@
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=82994003)
+
