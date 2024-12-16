@@ -6,9 +6,12 @@
 </div>
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=500&lines=I%E2%80%99m+a+passionate+Web+App+Developer;I%E2%80%99m+an+Entrepreneur+driven+by+Innovation;I+Love+Teaching+and+Empowering+Others)](https://git.io/typing-svg)
 
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-%23181717?style=flat&logo=github&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=jerit-baiju)
+![Typing Speed](https://img.shields.io/badge/Typing%20Speed-118%20WPM-green?style=flat)
 
 </div>
 <h2 align="center">Pronouns: He/Him</h2>
