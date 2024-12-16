@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&width=446&lines=This+is+Jerit+Baiju.;I'm+a+Passionate+Django+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&duration=3000&center=true&width=446&lines=This+is+Jerit+Baiju.;I'm+a+Passionate+Web+App+Developer.)
 
 ![](https://komarev.com/ghpvc/?username=jerit-baiju)
 
