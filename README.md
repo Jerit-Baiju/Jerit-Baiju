@@ -16,7 +16,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jerit-Baiju" alt="Jerit Baiju" />
 </div>
 
-- 🌱 I'm currently learning **Django**
+- 🌱 I'm currently learning **NLP with TensorFlow**
 
 - 💬 Ask me about **Python, Django, Flask, Pyflit, Heroku**
 
