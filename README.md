@@ -11,7 +11,7 @@
 
 ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-%23181717?style=flat&logo=github&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=jerit-baiju)
-![Typing Speed](https://img.shields.io/badge/Typing%20Speed-124%20WPM-green?style=flat)
+![Typing Speed](https://img.shields.io/badge/Typing%20Speed-126%20WPM-green?style=flat)
 
 </div>
 <h2 align="center">Pronouns: He/Him</h2>
